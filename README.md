@@ -1,2 +1,2 @@
 # M18
-A shell script for activating proxies and VPNs on Linux
+A shell script for activating and verifying that proxies and VPNs are working
