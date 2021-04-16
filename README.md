@@ -1,7 +1,7 @@
 # M18
 A shell script for activating and verifying that proxies and VPNs are working.
 
-Works usign proxychains and nmcli, so you'll need to have proxychains set up, and a VPN set up through network manager. If you need help, here's a [tutorial on proxychains](https://www.youtube.com/watch?v=qsA8zREbt6g) and [one on network manager](#).
+Works usign proxychains and nmcli, so you'll need to have proxychains set up, and a VPN set up through network manager. If you need help, here's a [tutorial on proxychains](https://www.youtube.com/watch?v=qsA8zREbt6g) and [one on network manager](https://www.youtube.com/watch?v=8d7dWoqi720).
 
 ### Steps for Use
 1. Download m18.sh
